@@ -1,4 +1,4 @@
-# lab-02-4C24-MR
+# lab-02-4C24-Mauricio Rojas
 Proyecto de tecsup
 ## Getting Started
 1. Clonar el repositorio:
